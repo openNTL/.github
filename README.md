@@ -1,2 +1,3 @@
 # .github
-Organisation profile and default community health files for openNTL
+
+Organisation profile and default community health files for openNTL.
